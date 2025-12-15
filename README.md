@@ -1,6 +1,6 @@
 <img align="center" src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome" />
 
-# Hi there, I'm Gamal Abdel Fattah 👋
+# Hi there, I'm Gamal Abdel fattah 👋
 
 ### Front-End Developer (Junior)
 
@@ -71,7 +71,7 @@ I’m a passionate **Front-End Developer** focused on building clean, responsive
 
 ## 📊 GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Gamal-AbdelFattah&show_icons=true&theme=default" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ga-Mal&show_icons=true&theme=default" />
 
 <br />
 <br />
