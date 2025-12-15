@@ -76,6 +76,9 @@ I’m a passionate **Front-End Developer** focused on building clean, responsive
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 ---
 
