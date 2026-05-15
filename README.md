@@ -2,7 +2,7 @@
 
 # Hi there, I'm Gamal Abdel fattah 👋
 
-### Front-End Developer (Junior)
+### Front-End Developer
 
 I’m a passionate **Front-End Developer** focused on building clean, responsive, and user-friendly web applications. I enjoy turning ideas into real products using modern front-end technologies and continuously improving my skills through real projects and content creation.
 
@@ -10,7 +10,7 @@ I’m a passionate **Front-End Developer** focused on building clean, responsive
 
 ## 🚀 About Me
 
-* 💻 Front-End Developer (Junior)
+* 💻 Front-End Developer 
 * 🌱 Constantly learning and improving through hands-on projects
 * 🎯 Interested in both **job opportunities** and **building a personal brand**
 * 📚 Strong focus on clean code, UI/UX basics, and performance
